@@ -1,3 +1,19 @@
+---
+license: apache-2.0
+language:
+  - en
+tags:
+  - text-generation
+  - grateful-dead
+  - fine-tuned
+  - huggingface
+datasets:
+  - gratefulgpt
+model-index:
+  - name: GratefulGPT
+    results: []
+---
+
 # GratefulGPT - AI Deadhead 🎸⚡
 
 A fine-tuned Qwen2.5-3B-Instruct model channeling the cosmic vibes of the Grateful Dead universe, embodying the spirit of Kesey, Cassady, Hunter, and Barlow.
